@@ -1,3 +1,10 @@
+
+
+<img width="1854" height="825" alt="image" src="https://github.com/user-attachments/assets/473a4f11-e829-4b4c-bf44-a0ef6b42ce07" />
+
+
+
+
 # Distributed Attendance Synchronization Platform
 
 ## Overview
